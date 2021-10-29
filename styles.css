@@ -1,0 +1,56 @@
+
+body{
+  background-color: #EED6C4;
+  background-image: url("images/background.jpg");
+}
+
+.titlebar {
+  margin: 0 auto ;
+   padding: 7% 15%;
+   font-size: 200%;
+}
+#navbar{
+  background-color:#483434;
+  color: black;
+
+}
+.navbar-brand{
+  margin-right: 900px;
+}
+
+h1{
+  text-align: center;
+  color :black;
+  font-style: italic;
+}
+p{
+  text-align: center;
+  color :black;
+  font-style: italic;
+}
+.nameing{
+color:black;
+font-weight: lighter;
+text-align: center;
+}
+#bakwas{
+  background-color: #6B4F4F;
+  margin: 0 auto ;
+   padding: 7% 1%;
+
+
+}
+.knowmore{
+  margin: 0 auto;
+  padding: 7% 1%;
+  text-align: center;
+}
+.more{
+  margin:0  auto;
+  padding: 7% 1%;
+  text-align:center;
+}
+.btn
+{
+  margin-left: 200px;
+}
